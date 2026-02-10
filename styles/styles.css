@@ -6,4 +6,11 @@
 .header {
     background-color: black;
     display: flex;
+    justify-content: space-between;
+    padding: 0.85rem;
+    align-items: center;
+}
+
+.header__img {
+    max-width: 6rem;
 }
