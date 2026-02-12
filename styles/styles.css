@@ -11,6 +11,12 @@
     align-items: center;
 }
 
-.header__img {
+.header__logo {
     max-width: 6rem;
+}
+
+.header__hamburger {}
+
+.nav__list {
+    display: none;
 }
