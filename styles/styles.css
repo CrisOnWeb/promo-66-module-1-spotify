@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
+    padding: 0;
 }
 
 .header {
@@ -12,10 +13,12 @@
 }
 
 .header__logo {
-    max-width: 6rem;
+    height: 1.5rem;
 }
 
-.header__hamburger {}
+.hamburger__img {
+    height: 1.5rem;
+}
 
 .nav__list {
     display: none;
